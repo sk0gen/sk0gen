@@ -42,3 +42,7 @@
 	</a>
 </p>
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#56](https://github.com/unchase/Unchase.Odata.Connectedservice/issues/56) in [unchase/Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice)
+2. ❗️ Opened issue [#56](https://github.com/unchase/Unchase.Odata.Connectedservice/issues/56) in [unchase/Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice)
+3. ❗️ Opened issue [#515](https://github.com/minio/minio-dotnet/issues/515) in [minio/minio-dotnet](https://github.com/minio/minio-dotnet)
+<!--END_SECTION:activity-->

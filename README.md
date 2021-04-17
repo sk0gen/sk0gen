@@ -42,7 +42,7 @@
 	</a>
 </p>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#344](https://github.com/jasontaylordev/CleanArchitecture/issues/344) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
-2. ❗️ Closed issue [#56](https://github.com/unchase/Unchase.Odata.Connectedservice/issues/56) in [unchase/Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice)
-3. ❗️ Opened issue [#56](https://github.com/unchase/Unchase.Odata.Connectedservice/issues/56) in [unchase/Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice)
+1. ❗️ Opened issue [#58](https://github.com/unchase/Unchase.Odata.Connectedservice/issues/58) in [unchase/Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice)
+2. ❗️ Opened issue [#344](https://github.com/jasontaylordev/CleanArchitecture/issues/344) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+3. ❗️ Closed issue [#56](https://github.com/unchase/Unchase.Odata.Connectedservice/issues/56) in [unchase/Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice)
 <!--END_SECTION:activity-->

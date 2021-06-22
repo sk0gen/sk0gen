@@ -42,7 +42,7 @@
 	</a>
 </p>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#344](https://github.com/jasontaylordev/CleanArchitecture/issues/344) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
-2. ❗️ Opened issue [#58](https://github.com/unchase/Unchase.Odata.Connectedservice/issues/58) in [unchase/Unchase.Odata.Connectedservice](https://github.com/unchase/Unchase.Odata.Connectedservice)
-3. ❗️ Opened issue [#344](https://github.com/jasontaylordev/CleanArchitecture/issues/344) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+1. ❌ Closed PR [#1](https://github.com/sk0gen/BuilderTestSample/pull/1) in [sk0gen/BuilderTestSample](https://github.com/sk0gen/BuilderTestSample)
+2. 💪 Opened PR [#1](https://github.com/sk0gen/BuilderTestSample/pull/1) in [sk0gen/BuilderTestSample](https://github.com/sk0gen/BuilderTestSample)
+3. ❗️ Closed issue [#344](https://github.com/jasontaylordev/CleanArchitecture/issues/344) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
 <!--END_SECTION:activity-->

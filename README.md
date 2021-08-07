@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning: Clean Architecture, DDD, Nginx, CI/CD, Docker, Microservices
 - 👯 I’m looking to collaborate on OS C# projects. (ASP Net Core related)
-- 🤔 I’m looking for help with project ideas, TDD, DDD
+- 🤔 I’m looking for help with project ideas, TDD
 - 💬 Ask me about Clean Architecture, DevOps, ASP.NET Core, .NET C#, Angular
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wojciech-gawinski)
 - ⚡ Fact: Table tennis fan :D

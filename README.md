@@ -42,7 +42,7 @@
 	</a>
 </p>
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/sk0gen/BuilderTestSample/pull/1) in [sk0gen/BuilderTestSample](https://github.com/sk0gen/BuilderTestSample)
-2. 💪 Opened PR [#1](https://github.com/sk0gen/BuilderTestSample/pull/1) in [sk0gen/BuilderTestSample](https://github.com/sk0gen/BuilderTestSample)
-3. ❗️ Closed issue [#344](https://github.com/jasontaylordev/CleanArchitecture/issues/344) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+1. ❗️ Opened issue [#2963](https://github.com/ngx-formly/ngx-formly/issues/2963) in [ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly)
+2. ❌ Closed PR [#1](https://github.com/sk0gen/BuilderTestSample/pull/1) in [sk0gen/BuilderTestSample](https://github.com/sk0gen/BuilderTestSample)
+3. 💪 Opened PR [#1](https://github.com/sk0gen/BuilderTestSample/pull/1) in [sk0gen/BuilderTestSample](https://github.com/sk0gen/BuilderTestSample)
 <!--END_SECTION:activity-->

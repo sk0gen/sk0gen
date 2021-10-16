@@ -42,7 +42,7 @@
 	</a>
 </p>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2963](https://github.com/ngx-formly/ngx-formly/issues/2963) in [ngx-formly/ngx-formly](https://github.com/ngx-formly/ngx-formly)
-2. ❌ Closed PR [#1](https://github.com/sk0gen/BuilderTestSample/pull/1) in [sk0gen/BuilderTestSample](https://github.com/sk0gen/BuilderTestSample)
-3. 💪 Opened PR [#1](https://github.com/sk0gen/BuilderTestSample/pull/1) in [sk0gen/BuilderTestSample](https://github.com/sk0gen/BuilderTestSample)
+1. 🗣 Commented on [#2](https://github.com/inkOfPixel/sms-length/issues/2) in [inkOfPixel/sms-length](https://github.com/inkOfPixel/sms-length)
+2. ❗️ Closed issue [#2](https://github.com/inkOfPixel/sms-length/issues/2) in [inkOfPixel/sms-length](https://github.com/inkOfPixel/sms-length)
+3. ❗️ Opened issue [#2](https://github.com/inkOfPixel/sms-length/issues/2) in [inkOfPixel/sms-length](https://github.com/inkOfPixel/sms-length)
 <!--END_SECTION:activity-->

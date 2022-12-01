@@ -15,8 +15,7 @@
   </details>
     <details align="center" open>
     <summary><samp> <b>⚡️ My Skills </b> </samp> </summary>
-  <img src = 'https://www.campusmvp.es/img/cursos/curso-core-mvc.png?v=1.0.3' alt='ASP.Net Core' width='50'/>
-  <img src = 'https://cdn.worldvectorlogo.com/logos/angular-icon.svg' alt='Angular' width='50'/>
+  <img src = 'https://res.cloudinary.com/practicaldev/image/fetch/s--m8dwWwPX--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/fuva9omlwmb21osnqpwe.jpg' alt='ASP.Net Core' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg' alt='Docker' width='50'/>
   <img src = 'https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg' alt='Git' width='50'/>
   <img src = 'https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png' alt='MsSQL' width='50'/>

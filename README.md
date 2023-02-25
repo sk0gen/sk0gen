@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Wojtek, Welcome to my Github
 
-- 🌱 I’m currently learning: Clean Architecture, DDD, Nginx, CI/CD, Docker, Microservices
-- 👯 I’m looking to collaborate on OS C# projects. (ASP Net Core related)
+- 🌱 I’m currently learning: DDD, Nginx, CI/CD, Docker, Microservices
+- 👯 I’m looking to collaborate on OS C# projects
 - 🤔 I’m looking for help with project ideas, TDD
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wojciech-gawinski)
 - ⚡ Fact: Table tennis fan :D
